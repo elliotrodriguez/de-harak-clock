@@ -1,0 +1,25 @@
+.harakClock {
+  width: "100%";
+  height: "80vh";
+  background-color: "black";
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+  margin-top: 20;
+}
+
+.numberCube {
+  display: "flex";
+  border-color: "white";
+  border-width: 1;
+  border-style: "solid";
+  background-color: "black";
+  /* color: highlightNumber ? highlightColor : "white"; */
+  font-weight: 800;
+  font-size: 72;
+  /* fontFamily: "Helvetica"; */
+  width: "100px";
+  height: "100px";
+  justify-content: "center";
+  align-items: "center";
+}
